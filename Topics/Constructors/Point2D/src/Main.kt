@@ -1,0 +1,1 @@
+class Point2D(var x:Double, var y:Double)// write the Point2D class here

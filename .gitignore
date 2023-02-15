@@ -1,0 +1,45 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+gradle/
+gradlew
+*.bat
+build
+
+
+# idea confid
+.idea
+
+# old stages
+/Coffee Machine/*
+!/Coffee Machine/task/
+/Coffee Machine/task/*
+!/Coffee Machine/task/src/
+!/Coffee Machine/task/build.gradle
+!/Coffee Machine/task/build.gradle.kts
+
+# Project exclude paths
+/Topics/Constructors/Init usage/out/
+/Topics/Constructors/Init usage/out/production/classes/
+/Topics/Constructors/Pets/out/
+/Topics/Constructors/Pets/out/production/classes/
+/Topics/Enum/Days of the week/out/
+/Topics/Enum/Days of the week/out/production/classes/
+/Topics/Enum/valueOf() method/out/
+/Topics/Enum/valueOf() method/out/production/classes/
+/Topics/Functional decomposition/Calculator with four functions/out/
+/Topics/Functional decomposition/Calculator with four functions/out/production/classes/
+/Topics/Functional decomposition/Create a full name/out/
+/Topics/Functional decomposition/Create a full name/out/production/classes/
+/Topics/Member functions/Car/out/
+/Topics/Member functions/Car/out/production/classes/
+/Topics/Named arguments/Car price/out/
+/Topics/Named arguments/Car price/out/production/classes/
+/Topics/Named arguments/Greeting/out/
+/Topics/Named arguments/Greeting/out/production/classes/
+/Topics/Named arguments/Perimeter/out/
+/Topics/Named arguments/Perimeter/out/production/classes/
+/Topics/Property accessors/City population/out/
+/Topics/Property accessors/City population/out/production/classes/
